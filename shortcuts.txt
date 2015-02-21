@@ -1,0 +1,11 @@
+ctrl+l	==	clear
+ctrl+u 	==	clear current command
+ctrl+h	==	backspace
+ctrl+y	==	duplicate currently typed command text
+ctrl+t	==	swap last typed two letters
+ctrl+p	==	previous command in hostory
+ctrl+a	==	take cursor to the beginning
+ctrl+c	==	abort current command
+ctrl+b	==	back arrow
+ctrl+<- ->	==	move between words
+

@@ -1,0 +1,5 @@
+shortcuts.txt	command line shortcuts
+
+eachcommand.txt	'whatis' of the commands i have used
+
+

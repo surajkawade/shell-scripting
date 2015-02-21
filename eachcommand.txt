@@ -1,0 +1,16 @@
+file	determine file type
+ls	list directory contents
+cd	change directory
+mkdir	make/create directories
+cp	copy filea and directories
+mv	move (rename) files
+cat	concatenate files and print on the standard output
+more	file perusal filter for crt viewing
+head	output the first part of files
+tail	output the last part of files
+pwd	print name of current/working directory
+man	an interface to the on-line reference manuals
+whatis	dispaly on-line manual page descriptions
+whereis	locate the binary, source and manual page files for a command
+touch	change file timestamps
+
